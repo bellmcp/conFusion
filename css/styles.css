@@ -11,8 +11,8 @@
 }
 
 .footer {
-  color: #fff;
-  background-color: #232729;
+  color: #000;
+  background-color: #b39ddb;
   margin: 0 auto;
   padding: 20px 0;
 }
@@ -21,10 +21,19 @@
   padding: 70px 30px;
   margin: 0 auto;
   color: #fff;
-  background: #0070a8;
+  background: #7e57c2;
 }
 
 .address {
   font-size: 80%;
   margin: 0;
+}
+
+body {
+  padding: 50px 0px 0px 0px;
+  z-index: 0;
+}
+
+.navbar-dark {
+  background-color: #512da8;
 }
