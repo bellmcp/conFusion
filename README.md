@@ -1,3 +1,3 @@
 # conFusion
 
-ConFusion website developed using React and Bootstrap 4
+ConFusion website developed using HTML and Bootstrap 4
